@@ -1,0 +1,10 @@
+C:\Users\justi\source\repos\DealingCards\bin\Debug\DealingCards.exe.config
+C:\Users\justi\source\repos\DealingCards\bin\Debug\DealingCards.exe
+C:\Users\justi\source\repos\DealingCards\bin\Debug\DealingCards.pdb
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.Form1.resources
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.Properties.Resources.resources
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.exe
+C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.pdb

@@ -1,0 +1,10 @@
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.exe.config
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.exe
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.pdb
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.ZombieNameLabel.resources
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.Properties.Resources.resources
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.exe
+C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.pdb
