@@ -22,7 +22,7 @@ namespace ZombieMakerJustinBashara
         {
             Zombie newZombie = new Zombie(ZombieNameText.Text, ZombieGroanText.Text);
             
-            
+            // Saving newZombie
             saveFileDialog1 = new SaveFileDialog();
             saveFileDialog1.InitialDirectory = @"C:\Users\justi\Documents\";
             saveFileDialog1.Filter = "Text files (*.zom)|*.zom|All files (*.*)|*.*";
@@ -39,6 +39,7 @@ namespace ZombieMakerJustinBashara
         {
             Zombie loadZombie = new Zombie();
             
+            // Loading .zom file and assigning to currZombie variable.
             openFileDialog1 = new OpenFileDialog();
             openFileDialog1.Filter = "Text files (*.zom)|*.zom|All files (*.*)|*.*";
             openFileDialog1.FileName = "default_file.zom";
@@ -53,8 +54,8 @@ namespace ZombieMakerJustinBashara
 
         private void CurrentZombieButton_Click(object sender, EventArgs e)
         {
+            // Displaying content of currZombie.
             CurrentZombieText.Text = currZombie.toString();
-            
         }
     }
 }

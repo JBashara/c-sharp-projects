@@ -12,7 +12,6 @@ namespace ZombieMakerJustinBashara
     class Zombie
     {
         String name, groan;
-        //public Zombie currZombie;
         public Zombie loadZombie;
 
 

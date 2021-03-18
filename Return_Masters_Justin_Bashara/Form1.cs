@@ -23,6 +23,7 @@ namespace HatMaster_JustinBashara
 
         private void HatMaster_Click(object sender, EventArgs e)
         {
+            // Creating a new HatMaster object and checking that fields have values.
             HatMaster master = new HatMaster(NameBox.Text, (int)ClotheAmt.Value);
             if (NameBox.Text == "")
             {
@@ -33,7 +34,7 @@ namespace HatMaster_JustinBashara
                 MessageBox.Show("Enter a value above zero.");
             }
             
-
+            // Adding new HatMaster object to masters array.
             if (count < 20 && NameBox.Text != "" && ClotheAmt.Value != 0)
             {
                 masters[count] = master;
@@ -51,6 +52,7 @@ namespace HatMaster_JustinBashara
 
         private void PantsMasterButton_Click(object sender, EventArgs e)
         {
+            // Creating a new PantsMaster object and checking that fields have values.
             PantsMaster master = new PantsMaster(NameBox.Text, (int)ClotheAmt.Value);
             if (NameBox.Text == "")
             {
@@ -61,7 +63,7 @@ namespace HatMaster_JustinBashara
                 MessageBox.Show("Enter a value above zero.");
             }
 
-
+            // Adding new PantsMaster object to masters array.
             if (count < 20 && NameBox.Text != "" && ClotheAmt.Value != 0)
             {
                 masters[count] = master;
@@ -79,6 +81,7 @@ namespace HatMaster_JustinBashara
 
         private void RingMasterButton_Click(object sender, EventArgs e)
         {
+            // Creating a new RingMaster object and checking that fields have values.
             RingMaster master = new RingMaster(NameBox.Text, (int)ClotheAmt.Value);
             if (NameBox.Text == "")
             {
@@ -89,7 +92,7 @@ namespace HatMaster_JustinBashara
                 MessageBox.Show("Enter a value above zero.");
             }
 
-
+            // Adding new RingMaster object to masters array.
             if (count < 20 && NameBox.Text != "" && ClotheAmt.Value != 0)
             {
                 masters[count] = master;
@@ -106,6 +109,7 @@ namespace HatMaster_JustinBashara
 
         private void PersonButton_Click(object sender, EventArgs e)
         {
+            // Creating a new Person object and checking that fields have values.
             Person master = new Person(NameBox.Text);
             if (NameBox.Text == "")
             {
@@ -116,7 +120,7 @@ namespace HatMaster_JustinBashara
                 MessageBox.Show("Enter a value above zero.");
             }
 
-
+            // Adding new Person object to masters array.
             if (count < 20 && NameBox.Text != "" && ClotheAmt.Value != 0)
             {
                 masters[count] = master;
@@ -134,6 +138,7 @@ namespace HatMaster_JustinBashara
         private void RollCall_Click(object sender, EventArgs e)
         {
 
+            // Displaying elements in masters array and clearing NameBox and ClotheAmt fields.
             for (int i = 0; i < masters.Length && masters[i] != null; i++)
             {
                 MessageBox.Show(masters[i].Report());

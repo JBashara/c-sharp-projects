@@ -18,3 +18,13 @@ C:\Users\justi\source\repos\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_Ju
 C:\Users\justi\source\repos\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.exe.config
 C:\Users\justi\source\repos\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.exe
 C:\Users\justi\source\repos\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.exe.config
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\bin\Debug\HatMaster_JustinBashara.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.Form.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.Properties.Resources.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\Return_Masters_Justin_Bashara\obj\Debug\HatMaster_JustinBashara.pdb

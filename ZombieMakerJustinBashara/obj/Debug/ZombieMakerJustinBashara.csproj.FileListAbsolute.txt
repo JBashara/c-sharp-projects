@@ -8,3 +8,13 @@ C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustin
 C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csproj.CoreCompileInputs.cache
 C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.exe
 C:\Users\justi\source\repos\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.exe.config
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\bin\Debug\ZombieMakerJustinBashara.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.ZombieNameLabel.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.Properties.Resources.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\ZombieMakerJustinBashara\obj\Debug\ZombieMakerJustinBashara.pdb
