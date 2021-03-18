@@ -21,8 +21,8 @@ namespace DealingCards
         public Form1()
         {
             InitializeComponent();
-            nextCard = random.Next(1, 52);
 
+            // Building Deck and displaying in deckbox.
             deck = new List<Card>();
             for(int suit = 0; suit <= 3; suit++)
             {
@@ -49,18 +49,22 @@ namespace DealingCards
             }
             else
             {
+                //Clearing hand box. 
                 HandBox.Items.Clear();
 
+                //Adding next random card from deck to hand.
                 if (!hand.Contains(deck[nextCard]))
                 {
                     hand.Add(deck[nextCard]);
                 }
 
+                //Displaying cards in hand in handbox.
                 for (int i = 0; i < hand.Count; i++)
                 {
                     HandBox.Items.Add(hand[i].ToString());
                 }
 
+                //Removing nextCard from deckbox and deck.
                 DeckBox.Items.RemoveAt(nextCard);
                 deck.RemoveAt(nextCard);
             }

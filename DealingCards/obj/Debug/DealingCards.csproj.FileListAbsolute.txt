@@ -8,3 +8,13 @@ C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.csproj.GenerateR
 C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.csproj.CoreCompileInputs.cache
 C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.exe
 C:\Users\justi\source\repos\DealingCards\obj\Debug\DealingCards.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\bin\Debug\DealingCards.exe.config
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\bin\Debug\DealingCards.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\bin\Debug\DealingCards.pdb
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.Form1.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.Properties.Resources.resources
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.exe
+C:\Users\justi\Desktop\Coding Portfolio\c-sharp-projects\DealingCards\obj\Debug\DealingCards.pdb
